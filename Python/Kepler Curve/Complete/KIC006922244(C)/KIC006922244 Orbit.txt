@@ -1,0 +1,8 @@
+10 Orbits Period - 164.853 to 216.225 CORRECT LATER
+1 period - 135.292 to 131.697
+Orbital Period - 3.52254 days
+
+
+Radius Planet- 0.099247*(Radius Sun)
+
+Observed Period - 3.7977197039062474

@@ -1,0 +1,9 @@
+Orbit Period 1 - 133.740 to 137.915
+1 Period - 4.175
+Orbit Period 10 - 133.740 to 175.659
+1 Period - 4.653
+163.027
+period - 4.19058
+
+Observed Period - 4.630808242993627
+

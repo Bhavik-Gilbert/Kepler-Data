@@ -1,0 +1,6 @@
+137.007 - 147.307
+
+orbit period - 10.291
+
+Observed period - 11.60823394640001
+Inconsistencies observed

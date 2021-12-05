@@ -1,0 +1,7 @@
+1 Orbit - 136.988 to 145.265 to 154.543
+Orbital Period - 17.555
+5 Orbit Period 136.988 to 173.136
+Orbital Period - 18.074 9.037
+9.2873
+
+Observed orbit average 10.20910208014185
