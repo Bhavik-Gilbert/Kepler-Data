@@ -1,5 +1,5 @@
 # Kepler-Data
-Phase Folding and Luminosity of Stars
+Phase Folding Luminosity of Stars
 
 A program run by QMUL to calculate the radius and orbital period of an exoplanet from the luminosity of the star it's orbiting.
 
